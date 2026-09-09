@@ -12,7 +12,7 @@
     "clasificacion": "16+",
     "sinopsis": "Matt Hagen, una estrella de cine en ascenso, queda desfigurado y se ofrece como voluntario para un tratamiento experimental que le devuelve el rostro, pero cuyos efectos secundarios convierten su cuerpo en arcilla viviente y destruyen su mente.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-clayface.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-clayface.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=Jj1jZY2Am-U",
     "fechaEstreno": "2026-10-23",
@@ -31,7 +31,7 @@
     "clasificacion": "Todo público",
     "sinopsis": "Un niño solitario y su perro rescatado descubren un túnel olvidado bajo la vieja granja familiar y emprenden una travesía subterránea llena de secretos del pasado, mapas escondidos y un tesoro que alguien más también anda buscando.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-digger.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-digger.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=9zPdLpJwixs",
     "fechaEstreno": "2026-07-03",
@@ -50,7 +50,7 @@
     "clasificacion": "14+",
     "sinopsis": "Tras el colapso de las grandes ciudades, una mercenaria endurecida acepta escoltar a la única científica capaz de revertir el desastre a través de un páramo sin ley dominado por bandas armadas que la quieren muerta.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-doomsday.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-doomsday.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=lAr_uspgHm8",
     "fechaEstreno": "2026-05-22",
@@ -69,7 +69,7 @@
     "clasificacion": "14+",
     "sinopsis": "Años después de conquistar el Imperio, Paul Atreides gobierna como un emperador implacable atormentado por visiones de su propia caída, mientras viejos aliados regresan, nuevas amenazas emergen y una conspiración que gira en torno a Chani lo cerca.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-dune-3.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-dune-3.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=Bv3Odij90K4",
     "fechaEstreno": "2026-12-18",
@@ -88,7 +88,7 @@
     "clasificacion": "7+",
     "sinopsis": "Durante su última noche juntas, las amigas Jo y Raissa cruzan un portal a la isla de Nakali, poblada por criaturas del folclore filipino, y descubren que el precio de volver a casa son los recuerdos de su amistad.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-forgotten-island.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-forgotten-island.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=8cI5Bl-v-p8",
     "fechaEstreno": "2026-09-25",
@@ -107,7 +107,7 @@
     "clasificacion": "12+",
     "sinopsis": "En el Japón de la posguerra, aún en ruinas tras el ataque anterior, los supervivientes que creían haber derrotado a Godzilla deben enfrentarse al regreso de la criatura, ahora más colosal, veloz y devastadora que nunca.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-godzilla-minus-zero.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-godzilla-minus-zero.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
     "fechaEstreno": "2026-11-06",
@@ -126,7 +126,7 @@
     "clasificacion": "14+",
     "sinopsis": "Veinticuatro años antes de la historia de Katniss, la mañana de la cosecha de los quincuagésimos Juegos del Hambre, un joven Haymitch Abernathy es enviado a una arena donde compiten el doble de tributos que de costumbre.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-hunger-games.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-hunger-games.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=fS35YSjopjE",
     "fechaEstreno": "2026-11-20",
@@ -145,7 +145,7 @@
     "clasificacion": "18+",
     "sinopsis": "Bryan, un mensajero médico, llega de noche al hospital general de Raccoon City para entregar un paquete justo cuando un brote infeccioso se desata, y queda atrapado en una carrera desesperada por sobrevivir hasta el amanecer.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-resident-evil.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-resident-evil.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=8iKTeIV2xgE",
     "fechaEstreno": "2026-09-18",
@@ -164,7 +164,7 @@
     "clasificacion": "12+",
     "sinopsis": "Ambientada en 1993, los peleadores distanciados Ryu y Ken vuelven al combate cuando la misteriosa Chun-Li los recluta para el Torneo de Guerreros Mundiales, una brutal competencia tras la que se esconde una conspiración mortal.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-street-fighter.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-street-fighter.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=xbnII58WyxE",
     "fechaEstreno": "2026-10-16",
@@ -183,7 +183,7 @@
     "clasificacion": "7+",
     "sinopsis": "Cuando una bandada de cuervos se lleva a su hermano bebé, la testaruda adolescente Prue McKeel se adentra con su torpe compañero Curtis en un bosque encantado a las afueras de Portland, habitado por animales parlantes y bandidos.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-wildwood.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-wildwood.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=dtr5JL1zkiM",
     "fechaEstreno": "2026-10-23",
@@ -202,7 +202,7 @@
     "clasificacion": "Todo público",
     "sinopsis": "Red afronta su mayor desafío hasta la fecha: sobrevivir a la paternidad de tres polluelos mientras salva de nuevo al mundo, obligado otra vez a unir fuerzas con Chuck, Bomb y hasta con los cerdos verdes.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-angry-birds-3.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-angry-birds-3.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=qI_JqLRJh74",
     "fechaEstreno": "2026-12-23",
@@ -221,7 +221,7 @@
     "clasificacion": "7+",
     "sinopsis": "Tras años de artefactos defectuosos que estallan en sus manos, un coyote desempleado descubre un encubrimiento corporativo y se alía con un abogado en horas bajas para llevar a juicio a la todopoderosa corporación Acme.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-coyote-vs-acme.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-coyote-vs-acme.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=Yj-Nm47IW9k",
     "fechaEstreno": "2026-08-28",
@@ -240,7 +240,7 @@
     "clasificacion": "16+",
     "sinopsis": "Una bióloga que investiga la matanza de una manada entera de lobos en los Andes ecuatorianos descubre que algo mucho más antiguo, inteligente y hambriento ha bajado de la montaña y ya la está acechando a ella.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-el-corazon-de-la-bestia.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-el-corazon-de-la-bestia.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=OAGoEmCirOY",
     "fechaEstreno": "2026-10-30",
@@ -259,7 +259,7 @@
     "clasificacion": "Todo público",
     "sinopsis": "El Gato recibe su misión más difícil para el Instituto de la Imaginación: animar a Gabby y Sebastián, dos hermanos que no logran adaptarse a su mudanza, sin pasarse de la raya y perder su sombrero mágico.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-el-gato-con-sombrero.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-el-gato-con-sombrero.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=6HRWxu2VHvA",
     "fechaEstreno": "2026-11-06",
@@ -278,7 +278,7 @@
     "clasificacion": "12+",
     "sinopsis": "Un grupo de héroes ya retirados se ve obligado a volver al servicio cuando una grieta en el tiempo empieza a devolver al presente a viejos enemigos y batallas que el mundo creía ganadas hace años.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-endgame-encore.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-endgame-encore.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=HD39SsQ4Msc",
     "fechaEstreno": "2026-05-01",
@@ -297,7 +297,7 @@
     "clasificacion": "7+",
     "sinopsis": "Al mudarse al extraño pueblo de Hexe, una adolescente descubre que sus nuevos vecinos son en realidad brujas refugiadas del mundo humano y que ella lleva en la sangre mucha más magia de la que jamás imaginó.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-hechizos-bienvenidos-a-hexe.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-hechizos-bienvenidos-a-hexe.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=9NpBMpYzZaw",
     "fechaEstreno": "2026-09-04",
@@ -316,7 +316,7 @@
     "clasificacion": "14+",
     "sinopsis": "Cuando apenas quedan un puñado de ciudades habitables en la Tierra, dos de ellas se enfrentan en una batalla final por el control del último gran acuífero del planeta, con dos hermanos en bandos opuestos.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-la-guerra-de-los-ultimos.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-la-guerra-de-los-ultimos.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=8E1pkrmZQ0o",
     "fechaEstreno": "2026-07-24",
@@ -335,7 +335,7 @@
     "clasificacion": "18+",
     "sinopsis": "Una familia descubre que uno de sus hijos viaja dormido a una dimensión de espíritus conocida como La Antesala, y que algo lo ha seguido de regreso al mundo real y se niega a marcharse.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-la-noche-del-demonio.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-la-noche-del-demonio.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=lJA355ncZD4",
     "fechaEstreno": "2026-08-21",
@@ -354,7 +354,7 @@
     "clasificacion": "12+",
     "sinopsis": "En un mundo que ya no recuerda su identidad, Peter Parker combate el crimen a tiempo completo, pero la presión desata en él una transformación que no puede controlar, cuando aparece un villano al que nadie puede ver.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-spiderman-un-nuevo-dia.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-spiderman-un-nuevo-dia.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=QXibcL7-XbU",
     "fechaEstreno": "2026-07-31",
@@ -373,7 +373,7 @@
     "clasificacion": "Todo público",
     "sinopsis": "Ahora padre de la pequeña Oli y más sobreprotector que nunca, Tadeo persigue a la Momia por distintas épocas de la historia después de que esta usara una lámpara mágica para viajar al pasado y reescribirlo.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-tadeo-explorador.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-tadeo-explorador.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=y3lsN2ldXgs",
     "fechaEstreno": "2026-08-26",
@@ -392,7 +392,7 @@
     "clasificacion": "Todo público",
     "sinopsis": "Woody, Buzz y Jessie afrontan a su rival más difícil hasta ahora: Lilypad, una tableta electrónica de última generación que llega a la habitación de Bonnie con sus propias ideas sobre lo que conviene a la niña.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-toy-story-5.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-toy-story-5.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=s_qpMMkvHYE",
     "fechaEstreno": "2026-06-19",
@@ -411,7 +411,7 @@
     "clasificacion": "14+",
     "sinopsis": "Un joven buzo desciende al mar para recuperar los restos de su padre y termina siendo tragado por un cachalote de veinticinco metros; con apenas una hora de oxígeno, debe hallar la salida de su estómago.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-whalefall.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-whalefall.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=L9u6ytdJokM",
     "fechaEstreno": "2026-10-16",
@@ -430,7 +430,7 @@
     "clasificacion": "16+",
     "sinopsis": "Una brigada de rescate entra en un edificio a punto de derrumbarse tras un atentado para buscar sobrevivientes, pero descubre demasiado tarde que los autores del ataque siguen dentro y los estaban esperando a ellos.",
     "imagenes": {
-      "poster": "images/peliculas/pelicula-zona-cero.jpg"
+      "poster": "https://cines-datos-api.kevinledesma014.workers.dev/images/peliculas/pelicula-zona-cero.jpg"
     },
     "trailerUrl": "https://www.youtube.com/watch?v=_Ru4_LzLg_E",
     "fechaEstreno": "2026-03-06",

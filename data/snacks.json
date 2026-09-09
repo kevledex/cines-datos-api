@@ -6,7 +6,7 @@
     "precio": 1.25,
     "descripcion": "Botella de agua Dasani sin gas de 500 ml, servida bien fría.",
     "imagenes": {
-      "principal": "images/snacks/snack-agua-sin-gas.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-agua-sin-gas.jpg"
     }
   },
   {
@@ -16,7 +16,7 @@
     "precio": 1.75,
     "descripcion": "Café negro Nescafé recién preparado y caliente, servido en vaso de 12 oz.",
     "imagenes": {
-      "principal": "images/snacks/snack-cafe.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-cafe.jpg"
     }
   },
   {
@@ -26,7 +26,7 @@
     "precio": 2,
     "descripcion": "Funda de 100 g de gomitas ácidas Trolli con forma de pulpo, sin gluten y con sabores surtidos de fruta.",
     "imagenes": {
-      "principal": "images/snacks/snack-gomas-trolli-pulpos-acidos.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-gomas-trolli-pulpos-acidos.jpg"
     }
   },
   {
@@ -36,7 +36,7 @@
     "precio": 2.5,
     "descripcion": "Barra clásica de chocolate con leche Hershey's de 43 g.",
     "imagenes": {
-      "principal": "images/snacks/snack-hersheys-chocolate-con-leche.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-hersheys-chocolate-con-leche.jpg"
     }
   },
   {
@@ -46,7 +46,7 @@
     "precio": 2.25,
     "descripcion": "Bolsa de grageas de chocolate con leche cubiertas de caramelo de colores.",
     "imagenes": {
-      "principal": "images/snacks/snack-mm-chocolate-con-leche.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-mm-chocolate-con-leche.jpg"
     }
   },
   {
@@ -56,7 +56,7 @@
     "precio": 1.5,
     "descripcion": "Envase de 16 g de mini pastillas Tic Tac sabor naranja, ideales para después de la función.",
     "imagenes": {
-      "principal": "images/snacks/snack-tic-tac.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-tic-tac.jpg"
     }
   },
   {
@@ -66,7 +66,7 @@
     "precio": 3.75,
     "descripcion": "Vaso grande de gaseosa de 32 oz con hielo, sabor a elección.",
     "imagenes": {
-      "principal": "images/snacks/snack-bebida-grande.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-bebida-grande.jpg"
     }
   },
   {
@@ -76,7 +76,7 @@
     "precio": 2.75,
     "descripcion": "Vaso de gaseosa de 20 oz con hielo, sabor a elección.",
     "imagenes": {
-      "principal": "images/snacks/snack-bebida-pequena.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-bebida-pequena.jpg"
     }
   },
   {
@@ -86,7 +86,7 @@
     "precio": 6.5,
     "descripcion": "Hot dog con salsas, canguil mediano de mantequilla y bebida de 20 oz.",
     "imagenes": {
-      "principal": "images/snacks/snack-combo-1.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-combo-1.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
     "precio": 11.9,
     "descripcion": "Canguil grande de mantequilla, nachos con queso cheddar y bebida de 32 oz.",
     "imagenes": {
-      "principal": "images/snacks/snack-combo-2.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-combo-2.jpg"
     }
   },
   {
@@ -106,7 +106,7 @@
     "precio": 16.5,
     "descripcion": "Canguil jumbo de mantequilla, hot dog, nachos con queso y dos bebidas de 32 oz.",
     "imagenes": {
-      "principal": "images/snacks/snack-combo-3.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-combo-3.jpg"
     }
   },
   {
@@ -116,7 +116,7 @@
     "precio": 19.9,
     "descripcion": "Canguil jumbo de mantequilla para compartir y dos bebidas grandes de 32 oz.",
     "imagenes": {
-      "principal": "images/snacks/snack-combo-4.jpg"
+      "principal": "https://cines-datos-api.kevinledesma014.workers.dev/images/snacks/snack-combo-4.jpg"
     }
   }
 ]
