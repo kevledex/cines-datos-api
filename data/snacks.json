@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Agua sin gas 500 ml",
+    "categoria": "bebida",
+    "precio": 1.25,
+    "descripcion": "Botella de agua Dasani sin gas de 500 ml, servida bien fría.",
+    "imagenes": {
+      "principal": "images/snacks/snack-agua-sin-gas.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Café americano",
+    "categoria": "bebida",
+    "precio": 1.75,
+    "descripcion": "Café negro Nescafé recién preparado y caliente, servido en vaso de 12 oz.",
+    "imagenes": {
+      "principal": "images/snacks/snack-cafe.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Gomas Trolli Pulpos Ácidos",
+    "categoria": "dulce",
+    "precio": 2,
+    "descripcion": "Funda de 100 g de gomitas ácidas Trolli con forma de pulpo, sin gluten y con sabores surtidos de fruta.",
+    "imagenes": {
+      "principal": "images/snacks/snack-gomas-trolli-pulpos-acidos.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Chocolate Hershey's con Leche",
+    "categoria": "dulce",
+    "precio": 2.5,
+    "descripcion": "Barra clásica de chocolate con leche Hershey's de 43 g.",
+    "imagenes": {
+      "principal": "images/snacks/snack-hersheys-chocolate-con-leche.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "M&M's Chocolate con Leche",
+    "categoria": "dulce",
+    "precio": 2.25,
+    "descripcion": "Bolsa de grageas de chocolate con leche cubiertas de caramelo de colores.",
+    "imagenes": {
+      "principal": "images/snacks/snack-mm-chocolate-con-leche.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Tic Tac Naranja",
+    "categoria": "dulce",
+    "precio": 1.5,
+    "descripcion": "Envase de 16 g de mini pastillas Tic Tac sabor naranja, ideales para después de la función.",
+    "imagenes": {
+      "principal": "images/snacks/snack-tic-tac.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Bebida Grande 32 oz",
+    "categoria": "bebida",
+    "precio": 3.75,
+    "descripcion": "Vaso grande de gaseosa de 32 oz con hielo, sabor a elección.",
+    "imagenes": {
+      "principal": "images/snacks/snack-bebida-grande.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Bebida Pequeña 20 oz",
+    "categoria": "bebida",
+    "precio": 2.75,
+    "descripcion": "Vaso de gaseosa de 20 oz con hielo, sabor a elección.",
+    "imagenes": {
+      "principal": "images/snacks/snack-bebida-pequena.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Combo Individual",
+    "categoria": "combo",
+    "precio": 6.5,
+    "descripcion": "Hot dog con salsas, canguil mediano de mantequilla y bebida de 20 oz.",
+    "imagenes": {
+      "principal": "images/snacks/snack-combo-1.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Combo Pareja",
+    "categoria": "combo",
+    "precio": 11.9,
+    "descripcion": "Canguil grande de mantequilla, nachos con queso cheddar y bebida de 32 oz.",
+    "imagenes": {
+      "principal": "images/snacks/snack-combo-2.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Combo Familiar",
+    "categoria": "combo",
+    "precio": 16.5,
+    "descripcion": "Canguil jumbo de mantequilla, hot dog, nachos con queso y dos bebidas de 32 oz.",
+    "imagenes": {
+      "principal": "images/snacks/snack-combo-3.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Combo Premium",
+    "categoria": "combo",
+    "precio": 19.9,
+    "descripcion": "Canguil jumbo de mantequilla para compartir y dos bebidas grandes de 32 oz.",
+    "imagenes": {
+      "principal": "images/snacks/snack-combo-4.jpg"
+    }
+  }
+]
